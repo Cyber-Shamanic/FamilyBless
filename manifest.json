@@ -1,0 +1,13 @@
+{
+  "project": "FamilyBless",
+  "name_he": "עץ חיים משפחתי — השורות",
+  "version": "0.0.1",
+  "date": "2026-11-05",
+  "author": "Leon Yaakubov (AnLoMinus) — Cyber Shamanic",
+  "language": "he",
+  "direction": "rtl",
+  "card_count": 21,
+  "cards_directory": "assets/cards/",
+  "series": [{"id":"first","range":"01"},{"id":"short","range":"02-11"},{"id":"poems","range":"12-21","lines_per_card":12}],
+  "entry": "index.html"
+}
